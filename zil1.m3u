@@ -123,68 +123,126 @@ https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b1
 
 #############################################################################UNIFI#################################################o=#########################################
 
-<======================== Malaysia ==========================>
+<===== Malaysia Start =====>
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+      #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1 HD
+      https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+      #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia",TV 2 HD
+      https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
-https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/live-audio_0=64000-video=3000000.m3u8
+      #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+      #EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+      https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+      #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey HD
+      https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+      #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6 HD
+      https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TV Sarawak
-https://link.zozotv.xyz:443/Rina923/390023/59
+      #EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
+      #http://176868.cloud/7fe24ecbaefa0eba510b204784dd7093/c4203a92959bb1542b28645bafe77ea9/8eb8996b2ba13641d8fa556ac75e4239/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+      #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
+      https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
-#http://176868.cloud/7fe24ecbaefa0eba510b204784dd7093/c4203a92959bb1542b28645bafe77ea9/8eb8996b2ba13641d8fa556ac75e4239/index.m3u8
+      #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
+      https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
-
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+      #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
+      https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://www.bernama.com/tv/img/bernama.png" group-title="Malaysia",Bernama TV
 https://link.zozotv.xyz:443/Rina923/390023/27
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste 
-https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+<===== Malaysia End =====>
+
+<===== Brunei Start =====>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
-https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
-https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
+#EXTINF:-1 tvg-id="" group-title="Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
+https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
+<===== Brunei End =====>
+
+<=============================== Mediacorp Singapore ========================================>
+
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNNlQ3LXpiT2ZIMklkQ0o5TWFKRG9ENVVKdlZScldxVTBTQlRoa0RENEZHcEZvaHh4RlNjbUJPTklONWJIRHl2R2lPZG9MX0ptMk9zTndmdEZzVmVwUEFEWFg2SjJrWS1rY1dxTXNOVlZWTzZNWV9CcGNkTTBWX3lDSzdnTEttVnVyRlNjM3dFaWJTTFJFWVBVOXU0eWJPaG9pWWlKc0lJbnhQU0UwUGpTZWNWenBnMHI4UVFwVFlZd3ZhcldMWlhwakV6MXZVOFpBMUx5V0pwT0liYmRjMmQzY25naEpQSF8wenZUd0FFQnhwY2tXd3Q4MHEtZzBHT1FXTlBxcnpKNmNIdzNFQmtNT0JsYkJjRG44TERYOGNIaHNnbjRlaGt0ZzB0V2d6T1ZsazhNY05lVTNzSXdKcTMzZDhVR2g2YWx3STFPQjY1d0RUTWV4OFdsNmVoYmU4ZjJTTFAtYTFsRHBmOTQ4NUZLTENkSklVaEtkakpkcHZjVmJIbUM2NmR3PT0mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZNNlQ3LXpiT2ZIMklkQ0o5TWFKRG9ENVVKdlZScldxVTBTQlRoa0RENEZHcEZvaHh4RlNjbUJPTklONWJIRHl2R2lPZG9MX0ptMk9zTndmdEZzVmVwUEFEWFg2SjJrWS1rY1dxTXNOVlZWTzZNWV9CcGNkTTBWX3lDSzdnTEttVnVyRlNjM3dFaWJTTFJFWVBVOXU0eWJPaG9pWWlKc0lJbnhQU0UwUGpTZWNWenBnMHI4UVFwVFlZd3ZhcldMWlhwakV6MXZVOFpBMUx5V0pwT0liYmRjMmQzY25naEpQSF8wenZUd0FFQnhwY2tXd3Q4MHEtZzBHT1FXTlBxcnpKNmNIdzNFQmtNT0JsYkJjRG44TERYOGNIaHNnbjRlaGt0ZzB0V2d6T1ZsazhNY05lVTNzSXdKcTMzZDhVR2g2YWx3STFPQjY1d0RUTWV4OFdsNmVoYmU4ZjJTTFAtYTFsRHBmOTQ4NUZLTENkSklVaEtkakpkcHZjVmJIbUM2NmR3PT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=kXUxOOP%2fvdBX8b5MgQZ%2fx2zsZV8%3d
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Channel 5 HD" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFOGVaU3BSTmJmUUtmNGhfNDJzN19hV0J1NTVDNmxlZlFvOW9oNXZ4Z0FMVHJJYUZFRFRsQ1lzbkY5X0RmOWdRWWJJRG1iN3VIMVJnT1plTkhVMmF4TVVVWTA4aC1RQkpENTVZM0xKTlBOY1NXeFE0LXp4cXF0MTNnMGdUTmJodGtKTUJvR2Q2cmY3RnYxMG95TWFPWVBfbk8tSm0xMzlhbElIZUo1Z0h5akFURGZlYmV6QTYyQWtFQkg5OXNqcWlWYnZVSDBobEhIejRzbTlUUU02U0ZQOWtIV1B0TVMyVVZ1YWY2Y3FIWHNJcTdLTlVDYnVuRkVaM1NMcm1rQUp1aGhicHJDQ1VneEpCNFdUQkxNbzdEQmQwRU8yTDVFNnpTbkRtdEpFSzEzLURZdWNlcVNZV1dXdDhEVHlxbjF2eU93bnRjQ2ZOYkpIQmc5R2o3YzJ3alU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRThlWlNwUk5iZlFLZjRoXzQyczdfYVdCdTU1QzZsZWZRbzlvaDV2eGdBTFRySWFGRURUbENZc25GOV9EZjlnUVliSURtYjd1SDFSZ09aZU5IVTJheE1VVVkwOGgtUUJKRDU1WTNMSk5QTmNTV3hRNC16eHFxdDEzZzBnVE5iaHRrSk1Cb0dkNnJmN0Z2MTBveU1hT1lQX25PLUptMTM5YWxJSGVKNWdIeWpBVERmZWJlekE2MkFrRUJIOTlzanFpVmJ2VUgwaGxISHo0c205VFFNNlNGUDlrSFdQdE1TMlVWdWFmNmNxSFhzSXE3S05VQ2J1bkZFWjNTTHJta0FKdWhoYnByQ0NVZ3hKQjRXVEJMTW83REJkMEVPMkw1RTZ6U25EbXRKRUsxMy1EWXVjZXFTWVdXV3Q4RFR5cW4xdnlPd250Y0NmTmJKSEJnOUdqN2Myd2pVPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=GC038T2ws%2fNBGVgOnfy0jP%2fRiys%3d
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Channel 8 HD" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHNlFOc2tGUVVBY3BGaVNGZWk1ZnVmeTFtS3BtRjJ5TjM5MzcydFI5Y2xIcEgyc3h0cEdYaUhSYkJNR0xIenhVVVd2ZGJiVHQ5a0QxSXN2THJHc2NtWjBIN094Q3FlOHZzU21tV2F2dk90Y1djUHlNWmlpcFBNcU9hY1oyeHhzM2pWR1hWb1czSFhyZWVNaHBySlB2XzRoUTJHMV9GbHd2M0xRUkN3dE1OemozUTZXcFljUmpGdDMxS3pMM3kzaFlqd2Uwc2hJelA3ZEtITXJTQ2VDQUhUU2hGNktFOG1DMVJTOU5MVGFnYVI2TV82c0kwMjZ3ZDFoeXE2RkwwWG4zQ051LUxHU2FQd2NEZjcwVnl5SFVUeUprSnBxSEN6YTdWZmVXd1FhWHVEVExWeUo4UElMaGV5MmRIbFN4MXdPcDhoamd4UTJXbXB5dG9TaGxjY0ZDcVE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRzZRTnNrRlFVQWNwRmlTRmVpNWZ1ZnkxbUtwbUYyeU4zOTM3MnRSOWNsSHBIMnN4dHBHWGlIUmJCTUdMSHp4VVVXdmRiYlR0OWtEMUlzdkxyR3NjbVowSDdPeENxZTh2c1NtbVdhdnZPdGNXY1B5TVppaXBQTXFPYWNaMnh4czNqVkdYVm9XM0hYcmVlTWhwckpQdl80aFEyRzFfRmx3djNMUVJDd3RNTnpqM1E2V3BZY1JqRnQzMUt6TDN5M2hZandlMHNoSXpQN2RLSE1yU0NlQ0FIVFNoRjZLRThtQzFSUzlOTFRhZ2FSNk1fNnNJMDI2d2QxaHlxNkZMMFhuM0NOdS1MR1NhUHdjRGY3MFZ5eUhVVHlKa0pwcUhDemE3VmZlV3dRYVh1RFRMVnlKOFBJTGhleTJkSGxTeDF3T3A4aGpneFEyV21weXRvU2hsY2NGQ3FRPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=tIZ2DVYzJbfwlu3SmiZpgMNapp8%3d
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Channel U HD" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMb0ZqamhoT29Jckx0VnU1TlVYbHNnRXNiQ1FHblFvTk9LMFBadHNCRm9ZS0o2WXA0anhZVGpOSUlmWlR5czFoRm43dHFIa3RTM1lOQjc2QmNQSUYtd0JmMXVJOHRNWEVXRzRiXy1ndWV2TnlIOFJ6V0d6bUdCeGEwTkM1VEZ0VGx4SVlfTWVUWjdWN3dBLXF5YWtyUzZlc1RaYnN5VG1ON09adDJWOWNtUUZGZ2N0Ni01ZU05V05CeUF2b2VaMDkzaHVFOC1RMnJoV2FSMm1WQTVnMmQyOUxKWHFucExhdzVic3NNWnNfZC03djFHR3ZoeTZOakJsbUdrR1J5bnBvNzdLblQxY2xWUUFVNlRiLUxQNGpmeUpheHVxQktTeWNpNExHbWJ6ZTJvVFliREY1QkJjQW9YWU5XN2lpdmxSQ3c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMb0ZqamhoT29Jckx0VnU1TlVYbHNnRXNiQ1FHblFvTk9LMFBadHNCRm9ZS0o2WXA0anhZVGpOSUlmWlR5czFoRm43dHFIa3RTM1lOQjc2QmNQSUYtd0JmMXVJOHRNWEVXRzRiXy1ndWV2TnlIOFJ6V0d6bUdCeGEwTkM1VEZ0VGx4SVlfTWVUWjdWN3dBLXF5YWtyUzZlc1RaYnN5VG1ON09adDJWOWNtUUZGZ2N0Ni01ZU05V05CeUF2b2VaMDkzaHVFOC1RMnJoV2FSMm1WQTVnMmQyOUxKWHFucExhdzVic3NNWnNfZC03djFHR3ZoeTZOakJsbUdrR1J5bnBvNzdLblQxY2xWUUFVNlRiLUxQNGpmeUpheHVxQktTeWNpNExHbWJ6ZTJvVFliREY1QkJjQW9YWU5XN2lpdmxSQ3c9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=vnEZ3Ahspf%2fSGTAJIrJpaGcAnGI%3d
+EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Channel NewsAsia HD" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHb2lURmtzcWk4Y250NUdtREthY0lWaTdubUJnVFlLS2RXdHBGV1NUbEdPUnVqT01HN1E4UXZhMmJqcm0wZDlmTURUV3dOMDVNVzcyM1BNbW84dGZDOFYxWWt0bXd0eHJIN09VRmhsMFpfRndiUEJtUFVGbkZpY1FxdHdqWUx6UWV3SnpuU2VTOGxQb3dxZ1UwRGJEa096TEZWVV9QTGJ2LXJ5cTBfa2xqVlA4WUY2cnFYUGJ4a2FtT1U3Y0hWckdTWnV0OFFEMW15RWI3WnZNWGhPdS1qT3BvckdHX2NXNWkzay1OMm5mMkR6bmdkWHByTFNPaHo0Sm9wTlBZTkdnZkRQdGRMUDNGWWtIYUtqU2VwZHNoc1dzWmF1bTM4MFVLNFI4Rl9sYm5xdlZEVHVxcDJYclVuSncyUmxXX0w4Nnc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQwNjYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmR29pVEZrc3FpOGNudDVHbURLYWNJVmk3bm1CZ1RZS0tkV3RwRldTVGxHT1J1ak9NRzdROFF2YTJianJtMGQ5Zk1EVFd3TjA1TVc3MjNQTW1vOHRmQzhWMVlrdG13dHhySDdPVUZobDBaX0Z3YlBCbVBVRm5GaWNRcXR3allMelFld0p6blNlUzhsUG93cWdVMERiRGtPekxGVlVfUExidi1yeXEwX2tsalZQOFlGNnJxWFBieGthbU9VN2NIVnJHU1p1dDhRRDFteUViN1p2TVhoT3Utak9wb3JHR19jVzVpM2stTjJuZjJEem5nZFhwckxTT2h6NEpvcE5QWU5HZ2ZEUHRkTFAzRllrSGFLalNlcGRzaHNXc1phdW0zODBVSzRSOEZfbGJucXZWRFR1cXAyWHJVbkp3MlJsV19MODZ3PT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=qkoaEIMyJk9F3hPb8TmGFtHXiU8%3d
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Suria HD" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZENHJ0SUFhaURhRzlWc3gwcVNpUmFLdTJtSGhJSXh5NWhCVEY5U19NSVFfSXRpa0FGaWxXcF9EUndPN0pPckZJcTlwZno1bmtxcTNzQ1AzcjBldjQzby1fbnlxR0JUem05Sk9VdGFEREZYR3FobHhYNlZKZExaWC1vVVBrbFJ1VEJkRDlJMjZRSHlWYi1Rb3FjcmNCb0cwSS1xZUlSRHExSUx3T1ZRUndzY2ZSeGw2SUY2MEF6RmJXOU5mT0Z6NWl6OWRfNVVnb0dnaDFuUnhOU3h2UndDcGstTmFWOVRuazE4enY0YnlxNTdoTFhleHlxOFQ2Vy1iRXdSdXR5cFc3cGN3ZEx2SFFxSWxjUnhxOEs5cWlVZDBMajN3VzRPV0NGM3dYXzIyNmtxN3BaWGo1UEl6MVpKeXFyd2lSVnZZUnc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkQ0cnRJQWFpRGFHOVZzeDBxU2lSYUt1Mm1IaElJeHk1aEJURjlTX01JUV9JdGlrQUZpbFdwX0RSd083Sk9yRklxOXBmejVua3FxM3NDUDNyMGV2NDNvLV9ueXFHQlR6bTlKT1V0YURERlhHcWhseFg2VkpkTFpYLW9VUGtsUnVUQmREOUkyNlFIeVZiLVFvcWNyY0JvRzBJLXFlSVJEcTFJTHdPVlFSd3NjZlJ4bDZJRjYwQXpGYlc5TmZPRno1aXo5ZF81VWdvR2doMW5SeE5TeHZSd0Nway1OYVY5VG5rMTh6djRieXE1N2hMWGV4eXE4VDZXLWJFd1J1dHlwVzdwY3dkTHZIUXFJbGNSeHE4SzlxaVVkMExqM3dXNE9XQ0Yzd1hfMjI2a3E3cFpYajVQSXoxWkp5cXJ3aVJWdllSdz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=XftZu9rMaq0qDmqBhoOhu1FkiNs%3d
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Vasantham HD" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 
-<======================== Malaysia ==========================>
+<========================= China ====================================>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
