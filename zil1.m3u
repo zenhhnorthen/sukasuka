@@ -3,41 +3,38 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", RIA 1
+http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f6516ffccb5907ca205b12bdc7ff6ef
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", RIA 2
+http://50.7.234.10:8278/Ria49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=64ada2009698fe228eccf08c4bff2157
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", RIA 3
+http://50.7.234.10:8278/Ria_quanjia/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a85951d75054cf9b117aa2f16107895e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", RIA 4
+http://50.7.234.10:8278/Boo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=53f9bb0446a6aa3ab4d98cbc0de6c5d8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", CITRA 1
+http://50.7.234.10:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", CITRA 2
+http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", OASIS
+http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822a8792082efdf2edb758e491
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", CERIA
+http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bda3ad6149e5e65417dfac231b232d7b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="", OASIS
+http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=fc45e08fe1a34800a158d0a327ebde5a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",HBO HD
-http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=d80659116f0092678bbdb8e6077c1bf6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",HBO Signature
-http://50.7.234.10:8278/Hbosignature/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1d50652cde410d63f6fc5b118c8e0dcb
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",HBO Hits
-http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=310e67481fde8bb83fbb5faf5f58d898
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",NatGeo Wild HD
-http://50.7.234.10:8278/Natgeowild/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b6571fb888d0cf35864aec539b7504c6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Cartoon Network
-http://50.7.234.10:8278/Cn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3734a1580ab693a911e84d58cf77f9d0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Nickelodeon
-http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=427d533c5232b3083073d50f48059425
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Nick Jr
-http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f107dfb5ab2c6eebb329204844d2cec6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Citra
-http://50.7.234.10:8278/Citra/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7bc01a3c8103e1f2f2b3c3b9a08cb0ad
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Sensasi
-http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=e7545365c83e63a66f8ec3e52b19da4c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Arena
-http://50.7.234.10:8278/Arena/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8c1744ac42a71fa92a360c03388bab52
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Goshop
-http://50.7.234.10:8278/Goshop/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=687ae9f9af171f3546362fc5ad2e91a1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Axn HD
-http://50.7.234.10:8278/Axn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=85db9f36bf714664569ab4b158c55812
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",Supersports 1
-http://50.7.234.10:8278/Assp1/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b69bec40e485e297d69300e156a1fff1
-
-
-
-
+      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+      #EXTINF:-1 tvg-name="104 RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="AST" ch-number="104" tvg-id="104.astro",RIA HD
+      http://50.7.234.10:8278/Citra/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7bc01a3c8103e1f2f2b3c3b9a08cb0ad
 
       #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
       #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
@@ -48,6 +45,36 @@ http://50.7.234.10:8278/Assp1/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&ts
       #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="AST" ch-number="611" tvg-id="611.astro" tvg-name="611 CERIA HD",CERIA HD
       http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bda3ad6149e5e65417dfac231b232d7b
+
+      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+      #EXTINF:-1 ch-number="801" tvg-id="801.astro" tvg-name="801 ARENA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="AST",RENA HD
+      http://50.7.234.10:8278/Arena/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8c1744ac42a71fa92a360c03388bab52
+
+      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+      #EXTINF:-1 ch-number="411" tvg-id="411.astro" tvg-name="411 HBO HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="AST",HBO HD
+      http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=d80659116f0092678bbdb8e6077c1bf6
+
+      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+      #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="AST" ch-number="413" tvg-id="413.astro" tvg-name="413 SHOWCASE",SHOWCASE
+      http://50.7.234.10:8278/Goshop/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=687ae9f9af171f3546362fc5ad2e91a1
+
+      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+      #EXTINF:-1 ch-number="415" tvg-id="415.astro" tvg-name="415 HBO Hits" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="AST",HBO Hits
+      http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=310e67481fde8bb83fbb5faf5f58d898
+
+      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+      #EXTINF:-1 tvg-name="616 NICKELODEON HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nickelodeon_2024.png" group-title="AST" ch-number="616" tvg-id="616.astro",NICKELODEON HD
+      http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=427d533c5232b3083073d50f48059425
+
+      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+      #EXTINF:-1 tvg-name="617 NICK JR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png" group-title="AST" ch-number="617" tvg-id="617.astro",NICK JR
+      http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f107dfb5ab2c6eebb329204844d2cec6
 
       #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
       #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
