@@ -6,43 +6,27 @@
       #EXTINF:-1 group-title="AST" ch-number="107" tvg-id="107.astro" tvg-name="107 WARNA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD
       http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=86d24c67ba0cc5a260cf7e51f16fdb81
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="AST" ch-number="611" tvg-id="611.astro" tvg-name="611 CERIA HD",CERIA HD
       http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bda3ad6149e5e65417dfac231b232d7b
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 ch-number="801" tvg-id="801.astro" tvg-name="801 ARENA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="AST",RENA HD
       http://50.7.234.10:8278/Arena/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8c1744ac42a71fa92a360c03388bab52
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 ch-number="411" tvg-id="411.astro" tvg-name="411 HBO HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="AST",HBO HD
       http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=d80659116f0092678bbdb8e6077c1bf6
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="AST" ch-number="413" tvg-id="413.astro" tvg-name="413 SHOWCASE",SHOWCASE
       http://50.7.234.10:8278/Goshop/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=687ae9f9af171f3546362fc5ad2e91a1
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 ch-number="415" tvg-id="415.astro" tvg-name="415 HBO Hits" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="AST",HBO Hits
       http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=310e67481fde8bb83fbb5faf5f58d898
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 tvg-name="616 NICKELODEON HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nickelodeon_2024.png" group-title="AST" ch-number="616" tvg-id="616.astro",NICKELODEON HD
       http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=427d533c5232b3083073d50f48059425
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 tvg-name="617 NICK JR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png" group-title="AST" ch-number="617" tvg-id="617.astro",NICK JR
       http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f107dfb5ab2c6eebb329204844d2cec6
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
       #EXTINF:-1 group-title="AST" ch-number="114" tvg-id="114.astro" tvg-name="114 TV ALHIJRAH" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV ALHIJRAH
       http://50.7.234.10:8278/Alhijrah/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=63d679186e702d010d26b99700cd58c9
 
