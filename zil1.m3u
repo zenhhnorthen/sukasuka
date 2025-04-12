@@ -1,34 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://hangit69.blogspot.com/p/aotg-movie.html,https://hangit69.blogspot.com/p/movie-request-vod.html,https://hangit69.blogspot.com/p/perfect-vod.html,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://bit.ly/vodshadany,https://github.com/mystery75/streaming/raw/refs/heads/app/VOD.js" billed-msg="NO RESELLING BACK. PROPERTY OF: SHADANY7824"
 
-      #EXTINF:-1 tvg-name="104 RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="AST" ch-number="104" tvg-id="104.astro",RIA HD-1
-      http://50.7.234.10:8278/Citra/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7bc01a3c8103e1f2f2b3c3b9a08cb0ad
-
-      #EXTINF:-1 group-title="AST" ch-number="107" tvg-id="107.astro" tvg-name="107 WARNA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD
-      http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=86d24c67ba0cc5a260cf7e51f16fdb81
-
-      #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="AST" ch-number="611" tvg-id="611.astro" tvg-name="611 CERIA HD",CERIA HD
-      http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bda3ad6149e5e65417dfac231b232d7b
-
-      #EXTINF:-1 ch-number="801" tvg-id="801.astro" tvg-name="801 ARENA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="AST",RENA HD
-      http://50.7.234.10:8278/Arena/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8c1744ac42a71fa92a360c03388bab52
-
-      #EXTINF:-1 ch-number="411" tvg-id="411.astro" tvg-name="411 HBO HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="AST",HBO HD
-      http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=d80659116f0092678bbdb8e6077c1bf6
-
-      #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="AST" ch-number="413" tvg-id="413.astro" tvg-name="413 SHOWCASE",SHOWCASE
-      http://50.7.234.10:8278/Goshop/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=687ae9f9af171f3546362fc5ad2e91a1
-
-      #EXTINF:-1 ch-number="415" tvg-id="415.astro" tvg-name="415 HBO Hits" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="AST",HBO Hits
-      http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=310e67481fde8bb83fbb5faf5f58d898
-
-      #EXTINF:-1 tvg-name="616 NICKELODEON HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nickelodeon_2024.png" group-title="AST" ch-number="616" tvg-id="616.astro",NICKELODEON HD
-      http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=427d533c5232b3083073d50f48059425
-
-      #EXTINF:-1 tvg-name="617 NICK JR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png" group-title="AST" ch-number="617" tvg-id="617.astro",NICK JR
-      http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f107dfb5ab2c6eebb329204844d2cec6
-
-      #EXTINF:-1 group-title="AST" ch-number="114" tvg-id="114.astro" tvg-name="114 TV ALHIJRAH" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV ALHIJRAH
-      http://50.7.234.10:8278/Alhijrah/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=63d679186e702d010d26b99700cd58c9
 
       #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1-1
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
@@ -136,6 +107,36 @@ http://50.7.234.10:8278/Boo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum
 
 
 #################################RADIO############################################
+
+      #EXTINF:-1 tvg-name="104 RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="AST" ch-number="104" tvg-id="104.astro",RIA HD-1
+      http://50.7.234.10:8278/Citra/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7bc01a3c8103e1f2f2b3c3b9a08cb0ad
+
+      #EXTINF:-1 group-title="AST" ch-number="107" tvg-id="107.astro" tvg-name="107 WARNA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",WARNA HD
+      http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=86d24c67ba0cc5a260cf7e51f16fdb81
+
+      #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="AST" ch-number="611" tvg-id="611.astro" tvg-name="611 CERIA HD",CERIA HD
+      http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bda3ad6149e5e65417dfac231b232d7b
+
+      #EXTINF:-1 ch-number="801" tvg-id="801.astro" tvg-name="801 ARENA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="AST",ARENA HD
+      http://50.7.234.10:8278/Arena/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8c1744ac42a71fa92a360c03388bab52
+
+      #EXTINF:-1 ch-number="411" tvg-id="411.astro" tvg-name="411 HBO HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="AST",HBO HD
+      http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=d80659116f0092678bbdb8e6077c1bf6
+
+      #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="AST" ch-number="413" tvg-id="413.astro" tvg-name="413 SHOWCASE",SHOWCASE
+      http://50.7.234.10:8278/Goshop/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=687ae9f9af171f3546362fc5ad2e91a1
+
+      #EXTINF:-1 ch-number="415" tvg-id="415.astro" tvg-name="415 HBO Hits" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="AST",HBO Hits
+      http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=310e67481fde8bb83fbb5faf5f58d898
+
+      #EXTINF:-1 tvg-name="616 NICKELODEON HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nickelodeon_2024.png" group-title="AST" ch-number="616" tvg-id="616.astro",NICKELODEON HD
+      http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=427d533c5232b3083073d50f48059425
+
+      #EXTINF:-1 tvg-name="617 NICK JR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png" group-title="AST" ch-number="617" tvg-id="617.astro",NICK JR
+      http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f107dfb5ab2c6eebb329204844d2cec6
+
+      #EXTINF:-1 group-title="AST" ch-number="114" tvg-id="114.astro" tvg-name="114 TV ALHIJRAH" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV ALHIJRAH
+      http://50.7.234.10:8278/Alhijrah/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=63d679186e702d010d26b99700cd58c9
 
       #EXTINF:-1 tvg-id="" ch-number="976" tvg-name="Hot FM" group-title="RADIO" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuZAw9V6Gej63cikLeVuX4cx-hJB3d7ftSQ&s",Hot FM OK
       https://n30a-eu.rcs.revma.com/drakdf8mtd3vv/48_1vmr9fw8eh2ml02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlC_DOo8Ac734sTC2N2aVIQ
