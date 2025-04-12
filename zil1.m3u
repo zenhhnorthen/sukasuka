@@ -49,6 +49,9 @@
       #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-2
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-3
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
       #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV",TV6-1
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
       #https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
@@ -72,16 +75,19 @@
       #EXTINF:-1 group-title="MYTV" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
       https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+
+
+      #KODIPROP:inputstream.adaptive.license_type=clearkey
+      #KODIPROP:inputstream.adaptive.license_key=874507f8-46c5-40be-82a1-82874a1867c7
+      #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="MYTV" tvg-logo"https://www.lyngsat.com/logo/tv/dd/drama-hebat-my.png",DRAMA HEBAT TEST
+      https://a86c4b70738a4e12b44c7fed76d977a4.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd
+
       #EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="MYTV",Okey-1
       https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
       #EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="MYTV",Okey-2
       https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
 
-      #KODIPROP:inputstream.adaptive.license_type=clearkey
-      #KODIPROP:inputstream.adaptive.license_key=874507f8-46c5-40be-82a1-82874a1867c7
-      #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="MYTV" tvg-logo"https://www.lyngsat.com/logo/tv/dd/drama-hebat-my.png",DRAMA HEBAT TEST
-      https://a86c4b70738a4e12b44c7fed76d977a4.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd
 
 #################################RADIO############################################
 
@@ -187,6 +193,27 @@ https://link.zozotv.xyz:443/Rina923/390023/27
       #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
       #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan 🇮🇩
       https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+
+      #EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",TRANSTV
+      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+      https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+      #EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",TRANS7
+      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+      https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+      #EXTINF:0 tvg-id="outdoor" group-title="Indonesia Channels",ELSHINTA
+      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+      https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+      #EXTINF:0 tvg-id="outdoor" group-title="Indonesia Channels",TV9 NUSANTARA
+      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+      http://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+
+      #EXTINF:0 tvg-id="outdoor" group-title="Indonesia Channels",BTV
+      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+      https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
 
       <===== Indonesia End =====>
 
