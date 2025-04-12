@@ -1,74 +1,62 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://hangit69.blogspot.com/p/aotg-movie.html,https://hangit69.blogspot.com/p/movie-request-vod.html,https://hangit69.blogspot.com/p/perfect-vod.html,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://bit.ly/vodshadany,https://github.com/mystery75/streaming/raw/refs/heads/app/VOD.js" billed-msg="NO RESELLING BACK. PROPERTY OF: SHADANY7824"
 
 
-      #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1-1
-      https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
-
       #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 HD
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-      #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 SD
+      #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 SD 1
+      https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
+
+      #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 SD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2-1  
-      https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
-
-      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2-2  
+      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 HD
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2-3
+      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 SD 1 
+      https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
+
+      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 SD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3-1
-      https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
-      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3-2
+      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD 1
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3-3
+      #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD 2
       #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
       #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
       #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
       #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3-4
+      #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD 3
       #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
       #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
       #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
       #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&hdnts=exp=null~hmac=505028eef5a2ae6aaf0d8ba02a87ae0dd10fece160b15d43a14
 
+      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD LAG
+      https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
-      #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM-1
+      #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM HD
       https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="107.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="MYTV", DIDIK TV KPM-2
-      https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
-
-      #EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV-1
-      https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
-
-      #EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV-2
+      #EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV HD
       https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-1
+      #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9 SD
       https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
-      #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-2
-      https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-3
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd 
 
-      #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV",TV6-1
-      https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
-      #https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV",TV6-1
+#https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #EXTINF:-1 tvg-id="TV6" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg"  group-title="MYTV",TV6-2
+      #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV",TV6-2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
       #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -78,15 +66,12 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
       #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-logo="" group-title="MYTV" ,Berita RTM-1
       https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
       #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="MYTV",Berita RTM-2
       https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 
       #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
       #EXTINF:-1 group-title="MYTV" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
       https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-
 
       #KODIPROP:inputstream.adaptive.license_type=clearkey
       #KODIPROP:inputstream.adaptive.license_key=874507f8-46c5-40be-82a1-82874a1867c7
@@ -142,6 +127,15 @@ http://50.7.234.10:8278/Boo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum
       https://n30a-eu.rcs.revma.com/drakdf8mtd3vv/48_1vmr9fw8eh2ml02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlC_DOo8Ac734sTC2N2aVIQ
 
 #################################OFFLINE############################################
+
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-2
+https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
+
+#EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM HD 2
+https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
+
+#EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV-1
+https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
