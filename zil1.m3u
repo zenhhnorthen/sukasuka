@@ -1,27 +1,41 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://hangit69.blogspot.com/p/aotg-movie.html,https://hangit69.blogspot.com/p/movie-request-vod.html,https://hangit69.blogspot.com/p/perfect-vod.html,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://bit.ly/vodshadany,https://github.com/mystery75/streaming/raw/refs/heads/app/VOD.js" billed-msg="NO RESELLING BACK. PROPERTY OF: SHADANY7824"
 
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY| TV1 HD" tvg-logo="https://lo1.in/MALAY/tv1.png" group-title="MALAYSIA",MY| TV1 HD
+http://extraott.com:900/live/3162523972/3791698850/192001.m3u8
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="MY| TV2 HD" tvg-logo="https://lo1.in/MALAY/tv2.png" group-title="MALAYSIA",MY| TV2 HD
+http://extraott.com:900/live/3162523972/3791698850/192002.m3u8
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="MALAYSIA",MY| TV3 HD
+http://extraott.com:900/live/3162523972/3791698850/400200329.m3u8
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="MY| ASTRO RIA (not 24/7)" tvg-logo="https://lo1.in/MALAY/astrori.png" group-title="MALAYSIA",MY| ASTRO RIA (not 24/7)
+http://extraott.com:900/live/3162523972/3791698850/191867.m3u8
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="MY| ASTRO AWANI HD" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="MALAYSIA",MY| ASTRO AWANI HD
+http://extraott.com:900/live/3162523972/3791698850/191859.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV3
-https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/cmaf-video=849984.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV4
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV5
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV7
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV8
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",TV9
-https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/live-audio_0=96000-video=600000.m3u8
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="MY| ASTRO OASIS HD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="MALAYSIA",MY| ASTRO OASIS HD
+http://extraott.com:900/live/3162523972/3791698850/191864.m3u8
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY| ASTRO CITRA HD" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="MALAYSIA",MY| ASTRO CITRA HD
+http://extraott.com:900/live/3162523972/3791698850/400200335.m3u8
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="MY| ASTRO RANIA HD" tvg-logo="https://lo1.in/MALAY/astror.png" group-title="MALAYSIA",MY| ASTRO RANIA HD
+http://extraott.com:900/live/3162523972/3791698850/191866.m3u8
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="MY| ASTRO AURA HD" tvg-logo="https://lo1.in/MALAY/astroaur.png" group-title="MALAYSIA",MY| ASTRO AURA HD
+http://extraott.com:900/live/3162523972/3791698850/191858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV ALHIJRAH HD" tvg-logo="https://lo1.in/MALAY/hijrah.png" group-title="MALAYSIA",MY| TV ALHIJRAH HD
+http://extraott.com:900/live/3162523972/3791698850/192000.m3u8
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://lo1.in/MALAY/tv9.png" group-title="MALAYSIA",MY| TV9 HD
+http://extraott.com:900/live/3162523972/3791698850/192004.m3u8
+#EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| 8TV HD" tvg-logo="https://lo1.in/MALAY/8tv.png" group-title="MALAYSIA",MY| 8TV HD
+http://extraott.com:900/live/3162523972/3791698850/191836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVS Sarawak HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="MALAYSIA",MY| TVS Sarawak HD
+http://extraott.com:900/live/3162523972/3791698850/401170435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ADITHYA HD" tvg-logo="https://lo1.in/MALAY/astroad.png" group-title="MALAYSIA",MY| ADITHYA HD
 
-      #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 HD
+
+
+      #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 HD 1
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+      
+      #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 HD 2
+      https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
       #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 SD 1
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
@@ -29,14 +43,18 @@ https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c910
       #EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="" group-title="MYTV",TV1 SD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 HD
+      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 HD 1
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+      #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 HD 2
+      https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
       #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 SD 1 
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 
       #EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="" group-title="MYTV",TV2 SD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
 
 
       #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD 1
@@ -71,13 +89,15 @@ https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c910
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-3
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
+      #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",RTM ASEAN HD
+      https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
+
       #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV",TV6 HD 1
       #https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
       #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV",TV6 HD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
-
 
       #EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM HD
       https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -86,7 +106,11 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
       #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="MYTV",Sukan RTM SD
       https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
+      #EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM SD
+      https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
+      #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",RTM PARLIMEN
+      https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
 
       #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-logo="" group-title="MYTV" ,Berita RTM-1
       https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
