@@ -110,9 +110,6 @@
       #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey HD 4
       https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="AST", Ast Boo
-http://50.7.234.10:8278/Boo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=53f9bb0446a6aa3ab4d98cbc0de6c5d8
-
 
 #################################RADIO############################################
 
@@ -1123,328 +1120,32 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 #EXTINF:-1 tvg-id="554" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-logo="" group-title="KNOWLEDGE",BBC Earth 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="552" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-logo="" group-title="EDUCATION",Discovery Channel HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="553" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-logo="" group-title="KNOWLEDGE",Discovery Asia HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="555" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-logo="" group-title="KNOWLEDGE",History HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 ===========================
 
 
-#EXTINF:-1 tvg-id="805" tvg-name="Astro Sports UHD"  group-logo="" group-title="4K" ch-number="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro Sports UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-logo="" group-title="SPORT" ch-number="815",ASTRO BADMINTON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT" ch-number="816",ASTRO BADMINTON 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=1a1019287e374379aab5e941464a0c20:59c965cebb5b9e23297086be561068a0
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO SPORTS PLUS
-https://d2e27gsr9y6c4h.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/sportplus_Production/masterCH2.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT" ch-number="816",ASTRO BADMINTON 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=1a1019287e374379aab5e941464a0c20:59c965cebb5b9e23297086be561068a0
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO SPORTS PLUS
-https://d2e27gsr9y6c4h.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/sportplus_Production/masterCH2.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 group-logo=""  tvg-id="811" ch-number="811" tvg-name="Astro Premier League" group-logo="" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE  
-http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
-#http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
-
-#EXTINF:-1 group-logo=""  tvg-id="811" ch-number="811" tvg-name="Astro Premier League" group-logo="" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE M3U8 
-https://jandatv.online/memfs/3ab0cd06-7ea0-4069-96d2-c0d55b96439a.m3u8
-
-#EXTINF:-1 group-logo=""  tvg-id="812" ch-number="811" tvg-name="Astro Premier League 2" group-logo="" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE 2 M3U8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
-#http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
-
-#EXTINF:-1 group-logo=""  tvg-id="811" ch-number="811" tvg-name="Astro Premier League" group-logo="" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE
-https://jandatv.online/memfs/3ab0cd06-7ea0-4069-96d2-c0d55b96439a.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="813" tvg-name="Astro Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" group-logo="" group-title="SPORT",ASTRO PREMIER LEAGUE 3 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
-
-#EXTINF:-1 tvg-id="814" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",ASTRO FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
-
-#EXTINF:-1 tvg-id="802" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT", ASTRO ARENA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7bf4663e43cdc277b4ae18219c81d2a1", "kid":"57833c900c4c437f82daf6785eb6ef36" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HRmhOelZrTjJJdE9Ua3lNaTAwWkROaExXRmhNbU10WlRZMFpqUTRNMkZtTkdZMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTg0MTQ5MiwiaWF0IjoxNzI5MjM3NDkyfQ.JMh_vbVFg6r95dGj7VH6lZLMu3_URD_T4qQz_G-f4u4"}
-#EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO ARENA BOLA
-https://kuro.samproject.my.id/static/sooka/arenabola.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7bf4663e43cdc277b4ae18219c81d2a1", "kid":"57833c900c4c437f82daf6785eb6ef36" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNTAyNjUsImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMjU3MjdkMjItZjcwOC00MGRmLWI3Y2QtYjdkYzBmMDk3YTViIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.Z4RbFG4rG35_fepAzCTPg1xr4GL0gcaS9ZPZ3SiWy_U"}
-#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO ARENA BOLA 2
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HRmhOelZrTjJJdE9Ua3lNaTAwWkROaExXRmhNbU10WlRZMFpqUTRNMkZtTkdZMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTg0MTQ5MiwiaWF0IjoxNzI5MjM3NDkyfQ.JMh_vbVFg6r95dGj7VH6lZLMu3_URD_T4qQz_G-f4u4"}
-#EXTINF:-1 tvg-id="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORT",ASTRO ARENA BOLA 3
-https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e/RmPkPNwne0rhghnIHSoQ","kid":"V4M8kAxMQ3+C2vZ4XrbvNg"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
-#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Astro_Arena_Bola_1_%282024%29.png" group-title="SPORT" group-logo="https://iili.io/H7B4QYF.png",803 Astro Arena Bola FHD
-https://kuro.samproject.my.id/static/sooka/arenabola.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDQ5MzksImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2ExYWVkOTEtOWZkMi00MmE0LWIyOTctNDYzMjFjZDE1YWNmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.qeqTylI2FbfiaP6CTnszrln3PPemDjeuCLUnQTz6tVw
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fsjEGG32mljPZAKRp8msfA","kid":"ExSRT7T5SYS3p1cqA7afkw"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png" group-title="SPORT",804 Astro Arena Bola 2 FHD
-https://kuro.samproject.my.id/static/sooka/arenabola2.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDQ5MzksImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2ExYWVkOTEtOWZkMi00MmE0LWIyOTctNDYzMjFjZDE1YWNmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.qeqTylI2FbfiaP6CTnszrln3PPemDjeuCLUnQTz6tVw
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+JiYGE7ZIeIlzYn00uoQNQ","kid":"UFrvzakIT4O8XGzFPw75xg"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035","66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71"}
-#EXTINF:-1 tvg-id="AstroGrandstand" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" ch-number="810",810 Astro Grandstand FHD
-https://kuro.samproject.my.id/static/sooka/grandstand.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDQ5MzksImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2ExYWVkOTEtOWZkMi00MmE0LWIyOTctNDYzMjFjZDE1YWNmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.qeqTylI2FbfiaP6CTnszrln3PPemDjeuCLUnQTz6tVw
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORT",811 Astro Premier League FHD
-https://kuro.samproject.my.id/static/sooka/premier.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDQ5MzksImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2ExYWVkOTEtOWZkMi00MmE0LWIyOTctNDYzMjFjZDE1YWNmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.qeqTylI2FbfiaP6CTnszrln3PPemDjeuCLUnQTz6tVw
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q6yFOCiTGUgC8NNNv3EFng","kid":"TsrZra6PRPCxyL9cSS2mEw"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" ch-number="812",812 Astro Premier League 2 FHD
-https://kuro.samproject.my.id/static/sooka/premier2.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDEwNDQ5MzksImlzcyI6IlZSIiwiZXhwIjoxNzQxMTI3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2ExYWVkOTEtOWZkMi00MmE0LWIyOTctNDYzMjFjZDE1YWNmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.qeqTylI2FbfiaP6CTnszrln3PPemDjeuCLUnQTz6tVw
-========================
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="SPORT" group-logo="https://iili.io/H7B4QYF.png" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",801 Astro Arena HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",802 Astro Arena 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-  
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="SPORT" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",801 Astro Arena HD(Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",Astro Arena 2 HD(Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSportsUHD" ch-number="805" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="4K",Astro SuperSport UHD(No Audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
-  
-#EXTINF:-1 tvg-id="AstroPremierLeague3" ch-number="813" group-title="SPORT" tvg-logo="https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp",813 Astro PremierLeague 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=astrogo
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+
+
+
+
+
+
+
+
+
+
+
+
 
 ########################MOVIE###########################
 
-
-
-[{ "name": "Baik Punya Ah Long", "category": "Malay Film", "info": { "poster": "https://m.media-amazon.com/images/M/MV5BNWUyYTNhZWItOGUwMS00MmRjLWIyMTUtNmUwYTI2ZGQwMmU0XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg", "bg": "https://m.media-amazon.com/images/M/MV5BNWUyYTNhZWItOGUwMS00MmRjLWIyMTUtNmUwYTI2ZGQwMmU0XkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg", "plot": "Dua beradik yang bergelut memulakan perniagaan pinjaman wang, menghadapi tentangan hebat daripada pesaing Ah Long. Mereka mesti menyelamatkan seorang tukang jahit daripada musuh yang kejam sambil cuba berjaya dalam perniagaan untuk menghormati mandat bapa angkat mereka.", "backdrop": "https://aqfadtv.xyz/images/16Puasa.png", "director": ["Aflin Shauki"], "cast": ["Zizan Razak", "Johan Raja Lawak", "Adibah Noor"], "genre": ["comedy"], "year": "2024" }, "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Baik.Punya.Ah-Long.2024.1080P.Aotg.Web-Dl.Dd5.1.H264-ABE.mp4", 
-{ "name": "Takluk: Lahad Datu", "category": "Malay Film", "info": { "poster": "https://suara.tv/wp-content/uploads/2024/08/453769484_18448634902044665_3035067625363214788_n.jpg", "bg": "https://images.mubicdn.net/images/film/416321/cache-977974-1719046120/image-w1280.jpg", "plot": "Kumpulan bersenjata Gerakan Militan Nusantara (GMN) yang diketuai oleh Raja Iskandar (Eman Manan) bersama orang kanannya Raja Imran (Nasir Jani) telah menceroboh Batu Jugar dan Kampung Air. Pasukan VAT 69 diketuai oleh SAC Azizi (Adam Corrie) menggerakkan tim Alpha, Bravo, Charlie dan Delta (terdapat lima sektor iaitu Alpha, Bravo, Charlie, Delta dan Echo semasa krisis) ke Batu Jugar untuk mengiringi Dato' Mizan (Riezman Khuzaimi) Timbalan Pengarah KDNKA (Pasukan Gerakan Khas) Bukit Aman ke sana bagi sesi rundingan damai bersama SAC Kamal (Josiah Hogan) dari Cawangan Khas.", "backdrop": "https://suara.tv/wp-content/uploads/2024/08/453769484_18448634902044665_3035067625363214788_n.jpg", "director": ["Zulkarnain Azhar"], "cast": ["Syafiq Kyle", "Kamal Adli", "Eman Manan"], "genre": ["action"], "year": "2024" }, "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Conquer.Lahad.Datu.2024.1080p.NF.WEB-DL.DDP5.1.H.264-ABE.mkv" },
-{
-    "name": "Bread And Lottery",
-    "category": "Squid Game Season 2",
-    "info": {
-      "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
-      "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "plot": "",
-      "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "director": [
-        "Hwang Dong-hyuk"
-      ],
-      "cast": [
-        "Lee Jung-jae, Lee Byung-hun, Wi Ha-joon, Im Si-wan"
-      ],
-      "year": "2024"
-    },
-    "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP01.MalaySub.mp4"
-  },
-{
-    "name": "Halloween Party",
-    "category": "Squid Game Season 2",
-    "info": {
-      "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
-      "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "plot": "Gi-hun finally gets hold of an invitation, marked for Halloween day; in a tense moment facing Jun-ho, they reveal their truths to each other.",
-      "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "director": [
-        "Hwang Dong-hyuk"
-      ],
-      "cast": [
-        "Lee Jung-jae, Lee Byung-hun, Wi Ha-joon, Im Si-wan"
-      ],
-      "year": "2024"
-    },
-    "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP02.MalaySub.mp4"
-  },
-{
-    "name": "Episode 3",
-    "category": "Squid Game Season 2",
-    "info": {
-      "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
-      "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "plot": "New players gather for a chance to win 45.6 billion won; after an intense first round, the survivors' fates hang in the balance - down to one final vote.",
-      "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "director": [
-        "Hwang Dong-hyuk"
-      ],
-      "cast": [
-        "	Lee Jung-jae, Lee Byung-hun, Wi Ha-joon, Im Si-wan"
-      ],
-      "year": "2024"
-    },
-    "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP03.MalaySub.mp4"
-  },
-{
-    "name": "Six Legs",
-    "category": "Squid Game Season 2",
-    "info": {
-      "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
-      "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "plot": "The players prepare for the next game: a six-legged pentathlon, where each team member must clear a mini-game to survive - or face collective elimination.",
-      "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "director": [
-        "Hwang Dong-hyuk"
-      ],
-      "cast": [
-        "	Lee Jung-jae, Lee Byung-hun, Wi Ha-joon, Im Si-wan"
-      ],
-      "year": "2024"
-    },
-    "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP04.MalaySub.mp4"
-  },
-{
-    "name": "One More Games",
-    "category": "Squid Game Season 2",
-    "info": {
-      "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
-      "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "plot": "Kang No-eul earns enemies for her unruly actions; nerves fray to the breaking point as the remaining players vote on whether to move to the next round.",
-      "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "director": [
-        "Hwang Dong-hyuk"
-      ],
-      "cast": [
-        "Lee Jung-jae, Lee Byung-hun, Wi Ha-joon, Im Si-wan"
-      ],
-      "year": "2024"
-    },
-    "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP05.MalaySub.mp4"
-  },
-{
-    "name": "Episode 6",
-    "category": "Squid Game Season 2",
-    "info": {
-      "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
-      "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "plot": "Jun-ho and his team prepare to infiltrate a suspicious island; as monetary stakes and tensions rise, players split into two opposing factions.",
-      "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "director": [
-        "Hwang Dong-hyuk"
-      ],
-      "cast": [
-        "Lee Jung-jae, Lee Byung-hun, Wi Ha-joon, Im Si-wan"
-      ],
-      "year": "2024"
-    },
-    "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP06.MalaySub.mp4"
-  },
-{
-    "name": "Freind or Foe",
-    "category": "Squid Game Season 2",
-    "info": {
-      "poster": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQTDI_bMtjG5FMrmK7TilFf8000Rs-dYkSk61V6sJBKyGiD3dCw5BbUbP4nFwtou-yLVCfDyqrgBROBLKduc176Z7huyI0Xh9bMSyU__z4bmjp35FhCZx-ljS7TbkgwIuw-YeKwkEMiIUwSLtk1uNmhw-.jpg?r=101",
-      "bg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "plot": "The remaining players strategize on how to survive the night. Gi-hun proposes a risky plan - but he will need trustworthy allies to carry it out.",
-      "backdrop": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/11/en-us_sg-s2_primary_main_roundandround-safe_vertical_27x40_rgb_pre.jpg",
-      "director": [
-        "Hwang Dong-hyuk"
-      ],
-      "cast": [
-        "Lee Jung-jae, Lee Byung-hun, Wi Ha-joon, Im Si-wan"
-      ],
-      "year": "2024"
-    },
-    "video": "https://myindex2.fixtv.xyz/api/raw/?path=/Series/Squid.Game.2024.S02/Squid.Game.2024.S02.EP07.MalaySub.mp4"
-  },
-]
