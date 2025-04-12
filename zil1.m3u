@@ -1,9 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://hangit69.blogspot.com/p/aotg-movie.html,https://hangit69.blogspot.com/p/movie-request-vod.html,https://hangit69.blogspot.com/p/perfect-vod.html,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://bit.ly/vodshadany,https://github.com/mystery75/streaming/raw/refs/heads/app/VOD.js" billed-msg="NO RESELLING BACK. PROPERTY OF: SHADANY7824"
 
 
-      #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
-      #EXTINF:-1 tvg-name="104 RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="AST" ch-number="104" tvg-id="104.astro",RIA HD
+      #EXTINF:-1 tvg-name="104 RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="AST" ch-number="104" tvg-id="104.astro",RIA HD-1
       http://50.7.234.10:8278/Citra/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7bc01a3c8103e1f2f2b3c3b9a08cb0ad
 
       #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
