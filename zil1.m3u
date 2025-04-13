@@ -25,7 +25,7 @@
       #EXTINF:-1 tvg-id="102.astro" tvg-logo="https://lo1.in/MALAY/tv2.png" group-logo="" group-title="MYTV",TV2 SD
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 
-      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD
+      #EXTINF:-1 tvg-id="103.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
       #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 SD 1
@@ -42,19 +42,19 @@
       #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&hdnts=exp=null~hmac=505028eef5a2ae6aaf0d8ba02a87ae0dd10fece160b15d43a14
 
-      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 SD 3 LAG
+      #EXTINF:-1 tvg-id="103.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 SD 3 LAG
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
-      #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM HD
+      #EXTINF:-1 tvg-id="147.astro" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM HD
       https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM SD
+      #EXTINF:-1 tvg-id="147.astro" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM SD
       https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
       
       #EXTINF:-1 tvg-id="148.astro" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV HD
       https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV SD
+      #EXTINF:-1 tvg-id="148.astro" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV SD
       https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
       #EXTINF:-1 tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9 HD
@@ -72,11 +72,11 @@
       #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="MYTV",TV6 HD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
-      #EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="TVSUKAN" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM HD 1
+      #EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="Sukan RTM" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM HD 1
       https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
       #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-      #EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="MYTV",Sukan RTM HD 2
+      #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="MYTV",Sukan RTM HD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
       #EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="Sukan RTM" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM HD 3
