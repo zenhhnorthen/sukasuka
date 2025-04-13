@@ -28,7 +28,7 @@
       #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD 1
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD 2
+      #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD 2
       #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
       #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
       #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
@@ -46,16 +46,22 @@
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
       #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM HD
-      https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+      https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV HD
+      #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM SD
+      https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+      
+      #EXTINF:-1 tvg-id="148.astro" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV HD
+      https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+      #EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-logo="" group-title="MYTV",8TV SD
       https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+      #EXTINF:-1 tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9 HD
+      https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
       #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9 SD
       https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
-      #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-3
-      https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
       #EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="MYTV",RTM ASEAN HD
       https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
@@ -95,7 +101,7 @@
 
       #KODIPROP:inputstream.adaptive.license_type=clearkey
       #KODIPROP:inputstream.adaptive.license_key=874507f8-46c5-40be-82a1-82874a1867c7
-      #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="MYTV" tvg-logo"https://www.lyngsat.com/logo/tv/dd/drama-hebat-my.png",DRAMA HEBAT TEST
+      #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="MYTV" tvg-logo"https://www.lyngsat.com/logo/tv/dd/drama-hebat-my.png",DRAMA HEBAT
       https://a86c4b70738a4e12b44c7fed76d977a4.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd
 
       #EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="MYTV",Okey HD 1
@@ -117,6 +123,9 @@
       https://n30a-eu.rcs.revma.com/drakdf8mtd3vv/48_1vmr9fw8eh2ml02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlC_DOo8Ac734sTC2N2aVIQ
 
 #################################OFFLINE############################################
+
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-3
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MYTV",TV9-2
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
