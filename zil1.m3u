@@ -3,15 +3,15 @@
 
       #EXTINF:-1 tvg-id="101.astro" tvg-logo="https://lo1.in/MALAY/tv1.png" group-logo="" group-title="MYTV",TV1 HD 1
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-      
+  
       #EXTINF:-1 tvg-id="101.astro" tvg-logo="https://lo1.in/MALAY/tv1.png" group-logo="" group-title="MYTV",TV1 HD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
-      #EXTINF:-1 tvg-id="101.astro" tvg-logo="https://lo1.in/MALAY/tv1.png" group-logo="" group-title="MYTV",TV1 SD 1
-      https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
-
-      #EXTINF:-1 tvg-id="101.astro" tvg-logo="https://lo1.in/MALAY/tv1.png" group-logo="" group-title="MYTV",TV1 SD 2
+      #EXTINF:-1 tvg-id="101.astro" tvg-logo="https://lo1.in/MALAY/tv1.png" group-logo="" group-title="MYTV",TV1 HD 3
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+      #EXTINF:-1 tvg-id="101.astro" tvg-logo="https://lo1.in/MALAY/tv1.png" group-logo="" group-title="MYTV",TV1 SD
+      https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
 
       #EXTINF:-1 tvg-id="102.astro" tvg-logo="https://lo1.in/MALAY/tv2.png" group-logo="" group-title="MYTV",TV2 HD 1
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
@@ -19,30 +19,30 @@
       #EXTINF:-1 tvg-id="102.astro" tvg-logo="https://lo1.in/MALAY/tv2.png" group-logo="" group-title="MYTV",TV2 HD 2
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
-      #EXTINF:-1 tvg-id="102.astro" tvg-logo="https://lo1.in/MALAY/tv2.png" group-logo="" group-title="MYTV",TV2 SD 1 
-      https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
-
-      #EXTINF:-1 tvg-id="102.astro" tvg-logo="https://lo1.in/MALAY/tv2.png" group-logo="" group-title="MYTV",TV2 SD 2
+      #EXTINF:-1 tvg-id="102.astro" tvg-logo="https://lo1.in/MALAY/tv2.png" group-logo="" group-title="MYTV",TV2 HD 3
       https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD 1
+      #EXTINF:-1 tvg-id="102.astro" tvg-logo="https://lo1.in/MALAY/tv2.png" group-logo="" group-title="MYTV",TV2 SD
+      https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
+
+      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD 2
+      #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 SD 1
       #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
       #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
       #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
       #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-      #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD 3
+      #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 SD 2
       #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
       #EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
       #EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
       #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
       https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&hdnts=exp=null~hmac=505028eef5a2ae6aaf0d8ba02a87ae0dd10fece160b15d43a14
 
-      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 HD LAG
+      #EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-logo="" group-title="MYTV",TV3 SD 3 LAG
       https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
       #EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-logo="" group-title="MYTV" ,DIDIK TV KPM HD
